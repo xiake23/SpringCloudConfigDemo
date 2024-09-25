@@ -1,0 +1,27 @@
+
+
+server:
+  port: 9091
+
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${server.port}
+  client:
+    service-url:
+      # 向服务端的注册地址
+      defaultZone: http://eureka-8081.com:8081/eureka/,http://eureka-8082.com:8082/eureka
+
+
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/xiake23/spring-cloud-config/
+          # 指定某个目录
+          search-paths: /application-config
+#          username: xiake23
+#          password: Aa9223307402
+

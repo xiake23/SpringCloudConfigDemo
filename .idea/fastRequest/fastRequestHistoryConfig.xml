@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestHistoryConfig">
+    <option name="historyList">
+      <list>
+        <ResponseHistory>
+          <option name="className" value="lcn29.github.io.PropertyController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="config-client" />
+          <option name="method" value="getProperty" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="lcn29.github.io.PropertyController" />
+              <option name="method" value="getProperty" />
+              <option name="methodDescription" value="getProperty" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/property" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/property" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/property&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.6.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="ConnectException: Connection refused: getsockopt" />
+          <option name="url" value="/property" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="lcn29.github.io.PropertyController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="config-client" />
+          <option name="method" value="getProperty" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="lcn29.github.io.PropertyController" />
+              <option name="method" value="getProperty" />
+              <option name="methodDescription" value="getProperty" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/property" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/property" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/property&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.6.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="ConnectException: Connection refused: getsockopt" />
+          <option name="url" value="/property" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="lcn29.github.io.PropertyController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="config-client" />
+          <option name="method" value="getProperty" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="lcn29.github.io.PropertyController" />
+              <option name="method" value="getProperty" />
+              <option name="methodDescription" value="getProperty" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/property" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/property" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/property&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.6.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="ConnectException: Connection refused: getsockopt" />
+          <option name="url" value="/property" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="lcn29.github.io.PropertyController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="config-client" />
+          <option name="method" value="getProperty" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="lcn29.github.io.PropertyController" />
+              <option name="method" value="getProperty" />
+              <option name="methodDescription" value="getProperty" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/property" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/property" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/property&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.6.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="ConnectException: Connection refused: getsockopt" />
+          <option name="url" value="/property" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="lcn29.github.io.PropertyController" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="config-client" />
+          <option name="method" value="getProperty" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="lcn29.github.io.PropertyController" />
+              <option name="method" value="getProperty" />
+              <option name="methodDescription" value="getProperty" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/property" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/property" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/property&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.6.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="ConnectException: Connection refused: getsockopt" />
+          <option name="url" value="/property" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="lcn29.github.io.PropertyController" />
+          <option name="code" value="404" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="config-client" />
+          <option name="method" value="getProperty" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="lcn29.github.io.PropertyController" />
+              <option name="method" value="getProperty" />
+              <option name="methodDescription" value="getProperty" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/property" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/property" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/property&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.6.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2024-09-25T16:20:35.154+0000&quot;,&quot;status&quot;:404,&quot;error&quot;:&quot;Not Found&quot;,&quot;message&quot;:&quot;No message available&quot;,&quot;path&quot;:&quot;/property&quot;}" />
+          <option name="url" value="/property" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" value="lcn29.github.io.PropertyController" />
+          <option name="code" value="404" />
+          <option name="enableEnv" value="local" />
+          <option name="enableProject" value="config-client" />
+          <option name="method" value="getProperty" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="className" value="lcn29.github.io.PropertyController" />
+              <option name="method" value="getProperty" />
+              <option name="methodDescription" value="getProperty" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="originUrl" value="/property" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+              <option name="url" value="/property" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/property&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Fast Request/2024.1.6.3&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2024-09-25T16:19:14.576+0000&quot;,&quot;status&quot;:404,&quot;error&quot;:&quot;Not Found&quot;,&quot;message&quot;:&quot;No message available&quot;,&quot;path&quot;:&quot;/property&quot;}" />
+          <option name="url" value="/property" />
+        </ResponseHistory>
+      </list>
+    </option>
+  </component>
+</project>

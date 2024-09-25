@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/xiake23/spring-cloud-config
+          # 指定某个目录
+          search-paths: /application-config
+          username: xiake23
+          password: Aa9223307402
+

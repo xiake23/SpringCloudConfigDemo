@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="lcn29.github.io.PropertyController" />
+    <option name="filePath" value="" />
+    <option name="method" value="getProperty" />
+    <option name="module" value="config-client" />
+    <option name="originUrl" value="/property" />
+    <option name="responseParamMap">
+      <map>
+        <entry key="return">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="returnDocument" value="&quot;No comment,Type =String&quot;" />
+    <option name="url" value="/property" />
+  </component>
+</project>
